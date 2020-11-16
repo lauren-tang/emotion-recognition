@@ -68,4 +68,4 @@ _________________________________________________________________
 ````
 - Another output is the plots of the training and validation accuracy of the CNN model. For example:
 
-![Alt text](https://github.com/lauren-tang/emotion-recognition/blob/main/plot.jpg?raw=true "Example Plot")
+![Alt text](https://github.com/lauren-tang/emotion-recognition/blob/main/plot.png?raw=true "Example Plot")
