@@ -35,7 +35,7 @@ In order to detect and classify emotional features from facial expressions, a th
 
 ### Example Output:
 - One of the outputs is the summary of the CNN model. For example:
-
+````
 Model: "sequential_11"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
@@ -62,7 +62,7 @@ Total params: 729,575
 Trainable params: 729,575
 Non-trainable params: 0
 _________________________________________________________________
-
+````
 - Another output is the plots of the training and validation accuracy of the CNN model. For example:
 
-![Alt text](lauren-tang/emotion-recognition/master/plot.jpg?raw=true "Example Plot")
+![Alt text](lauren-tang/emotion-recognition/main/plot.jpg?raw=true "Example Plot")
