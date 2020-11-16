@@ -1,4 +1,5 @@
-# emotion-recognition
+# Recognizing Facial Expressions with Convolutional Neural Network
+Beizheng Chang, Jiachen Yan, Yuting Tang
 This project aims to classify emotions from facial expressions by using CNN (Convolutional Neural Network).
 
 ### Summary
@@ -65,4 +66,4 @@ _________________________________________________________________
 ````
 - Another output is the plots of the training and validation accuracy of the CNN model. For example:
 
-![Alt text](lauren-tang/emotion-recognition/main/plot.jpg?raw=true "Example Plot")
+![Alt text](https://github.com/lauren-tang/emotion-recognition/main/plot.jpg?raw=true "Example Plot")
