@@ -11,6 +11,7 @@ In order to detect and classify emotional features from facial expressions, a th
 ### Files
 - **project_main.ipynb**: the main Jupyter notebook that consists of the Python code to construct the CNN and NN model, compare the CNN models with different values of hyperparameters with the NN model, and evaluate the models by computing and plotting the training, validtaion, and testing accuracy;
 - **CK+48-dataset.zip**: The Extended Cohn-Kanade (CK+) data set, pulled from the website https://www.kaggle.com/shawon10/ckplus, is adopted to train our algorithm. The CK+ data set is released in 2010 to enable the automatic detection of facial expressions. It is composed of 981 front-face images with each image being a 48x48 matrix of pixels. In the data set, each image is classified into one of the seven universal emotion categories: "anger", "disgust", "sadness", "fear", "contempt", and "happiness";
+- **plot.png**: An example output which plots the training accuracy (blue) and the validation accuracy (orange) of the given CNN model.
 
 
 ### How to Excecute Files:
@@ -66,4 +67,4 @@ _________________________________________________________________
 ````
 - Another output is the plots of the training and validation accuracy of the CNN model. For example:
 
-![Alt text](https://github.com/lauren-tang/emotion-recognition/main/plot.jpg?raw=true "Example Plot")
+![Alt text](https://github.com/lauren-tang/emotion-recognition/blob/main/plot.jpg?raw=true "Example Plot")
